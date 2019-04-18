@@ -3,6 +3,128 @@
 
 CMakeFiles/iterative_closest_point.dir/iterative_closest_point.cpp.o
  /Users/wangyizhuo/文稿/bishe/ICP/iterative_closest_point.cpp
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkABI.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAOSDataArrayTemplate.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAbstractArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAbstractCellLinks.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAbstractMapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAbstractMapper3D.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkActor.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkActor2D.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkActorCollection.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAlgorithm.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAlgorithmOutput.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAppendPolyData.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAtomic.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAtomicTypeConcepts.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAtomicTypes.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkAutoInit.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkBuffer.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCell.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCellArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCellData.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCellLinks.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCellType.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCellTypes.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCollection.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCommand.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCommonCoreModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCommonDataModelModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCommonExecutionModelModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCommonMathModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkConfigure.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkCoordinate.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataObject.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataSet.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataSetAttributes.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataSetMapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDataSetSurfaceFilter.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkDebugLeaksManager.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFieldData.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFiltersCoreModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFiltersGeometryModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFiltersSourcesModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFloatArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkFollower.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkGenericDataArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkGenericDataArray.txx
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkGenericDataArrayLookupHelper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIOStream.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIOStreamFwd.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIdList.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIdTypeArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkImageAlgorithm.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIndent.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkIntArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkInteractionStyleModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkInteractorObserver.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkInteractorStyle.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkInteractorStyleRubberBandPick.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkInteractorStyleTrackballCamera.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkLODActor.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkLeaderActor2D.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkLineSource.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkLookupTable.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkMapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkMath.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkMathConfigure.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkMatrix4x4.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkNew.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkOStrStreamWrapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkOStreamWrapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkObject.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkObjectBase.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkObjectFactory.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPointData.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPointSet.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPoints.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPolyData.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPolyDataAlgorithm.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPolyDataMapper.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPolygon.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkProp.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkProp3D.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkPropCollection.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkProperty.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkProperty2D.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRenderer.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRendererCollection.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRenderingAnnotationModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRenderingCoreModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRenderingFreeTypeModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkRenderingLODModule.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkScalarsToColors.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkSetGet.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkSmartPointer.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkSmartPointerBase.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkSphereSource.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkStdString.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkSystemIncludes.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkTextProperty.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkTexture.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkTimeStamp.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkType.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkTypeTraits.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkUnicodeString.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkUnsignedCharArray.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkUnstructuredGrid.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkUnstructuredGridBase.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVariant.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVariantCast.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVariantInlineOperators.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVectorText.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVersion.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVersionMacros.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkViewport.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVolume.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkVolumeCollection.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkWeakPointerBase.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkWin32Header.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkWrappingHints.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtk_kwiml.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkkwiml/abi.h
+ /usr/local/Cellar/vtk/8.1.2_2/include/vtk-8.1/vtkkwiml/int.h
  /usr/local/include/boost/algorithm/string.hpp
  /usr/local/include/boost/algorithm/string/case_conv.hpp
  /usr/local/include/boost/algorithm/string/classification.hpp
@@ -2641,6 +2763,7 @@ CMakeFiles/iterative_closest_point.dir/iterative_closest_point.cpp.o
  /usr/local/include/pcl-1.9/pcl/Vertices.h
  /usr/local/include/pcl-1.9/pcl/cloud_iterator.h
  /usr/local/include/pcl-1.9/pcl/common/centroid.h
+ /usr/local/include/pcl-1.9/pcl/common/colors.h
  /usr/local/include/pcl-1.9/pcl/common/concatenate.h
  /usr/local/include/pcl-1.9/pcl/common/copy_point.h
  /usr/local/include/pcl-1.9/pcl/common/eigen.h
@@ -2659,6 +2782,7 @@ CMakeFiles/iterative_closest_point.dir/iterative_closest_point.cpp.o
  /usr/local/include/pcl-1.9/pcl/correspondence.h
  /usr/local/include/pcl-1.9/pcl/exceptions.h
  /usr/local/include/pcl-1.9/pcl/for_each_type.h
+ /usr/local/include/pcl-1.9/pcl/geometry/planar_polygon.h
  /usr/local/include/pcl-1.9/pcl/impl/cloud_iterator.hpp
  /usr/local/include/pcl-1.9/pcl/impl/pcl_base.hpp
  /usr/local/include/pcl-1.9/pcl/impl/point_types.hpp
@@ -2715,3 +2839,23 @@ CMakeFiles/iterative_closest_point.dir/iterative_closest_point.cpp.o
  /usr/local/include/pcl-1.9/pcl/search/impl/search.hpp
  /usr/local/include/pcl-1.9/pcl/search/kdtree.h
  /usr/local/include/pcl-1.9/pcl/search/search.h
+ /usr/local/include/pcl-1.9/pcl/visualization/area_picking_event.h
+ /usr/local/include/pcl-1.9/pcl/visualization/boost.h
+ /usr/local/include/pcl-1.9/pcl/visualization/common/actor_map.h
+ /usr/local/include/pcl-1.9/pcl/visualization/common/common.h
+ /usr/local/include/pcl-1.9/pcl/visualization/common/impl/common.hpp
+ /usr/local/include/pcl-1.9/pcl/visualization/common/impl/shapes.hpp
+ /usr/local/include/pcl-1.9/pcl/visualization/common/ren_win_interact_map.h
+ /usr/local/include/pcl-1.9/pcl/visualization/common/shapes.h
+ /usr/local/include/pcl-1.9/pcl/visualization/eigen.h
+ /usr/local/include/pcl-1.9/pcl/visualization/impl/pcl_visualizer.hpp
+ /usr/local/include/pcl-1.9/pcl/visualization/impl/point_cloud_color_handlers.hpp
+ /usr/local/include/pcl-1.9/pcl/visualization/impl/point_cloud_geometry_handlers.hpp
+ /usr/local/include/pcl-1.9/pcl/visualization/interactor_style.h
+ /usr/local/include/pcl-1.9/pcl/visualization/keyboard_event.h
+ /usr/local/include/pcl-1.9/pcl/visualization/mouse_event.h
+ /usr/local/include/pcl-1.9/pcl/visualization/pcl_visualizer.h
+ /usr/local/include/pcl-1.9/pcl/visualization/point_cloud_color_handlers.h
+ /usr/local/include/pcl-1.9/pcl/visualization/point_cloud_geometry_handlers.h
+ /usr/local/include/pcl-1.9/pcl/visualization/point_cloud_handlers.h
+ /usr/local/include/pcl-1.9/pcl/visualization/point_picking_event.h

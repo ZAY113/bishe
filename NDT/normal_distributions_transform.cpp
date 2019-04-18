@@ -31,7 +31,7 @@ void visualizer(pcl::PointCloud<pcl::PointXYZ>::Ptr target_cloud, pcl::PointClou
     viewer_final->addPointCloud<pcl::PointXYZ> (target_cloud, target_color, "target cloud");
     viewer_final->setPointCloudRenderingProperties (pcl::visualization::PCL_VISUALIZER_POINT_SIZE, 1, "target cloud");
 
-    // 上色和可视化转换后的输入点云（绿色）
+    // 上色和可视化配准后的输入点云（绿色）
     pcl::visualization::PointCloudColorHandlerCustom<pcl::PointXYZ>
             output_color (output_cloud, 0, 255, 0);
     viewer_final->addPointCloud<pcl::PointXYZ> (output_cloud, output_color, "output cloud");
@@ -105,9 +105,9 @@ int main(int argc, char **argv) {
     ndt.align(*output_cloud, init_guess);
     // 输出收敛信息和算法本次的评分
     std::cout << "Normal Distribution Transform has converged:" << ndt.hasConverged()
-            << "score: " << ndt.getFitnessScore() << std::endl;
+            << " score: " << ndt.getFitnessScore() << std::endl;
 
-    // 对原始输入点云进行ndt配准，并将结果保存在cloud3.pcd
+    // 对原始输入点云进行变换，并将结果保存在cloud3.pcd
     pcl::transformPointCloud(*input_cloud, *output_cloud, ndt.getFinalTransformation());
     pcl::io::savePCDFileASCII("cloud3.pcd", *output_cloud);
 
